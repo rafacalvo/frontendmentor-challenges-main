@@ -1,2 +1,3 @@
-# frontendmentor-challenges-main
-Page to show the challenges I made from Frontend Mentor.
+# Frontendmentor Challenges Showcase
+
+Page to show the challenges I've made so far from Frontend Mentor.
